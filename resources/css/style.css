@@ -71,7 +71,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-family: 'Martel';
   font-style: normal;
   font-weight: 900;
@@ -159,7 +159,7 @@ header {
   height: 2rem;
 }
 
-.logo span:first-of-type {
+.logo span {
   font-weight: 900;
 }
 
